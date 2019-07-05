@@ -32,15 +32,14 @@ var mapList = [];
         ["Plugin_map/C_B1", "Plugin_map/C_B2", "Plugin_map/C_B3", "Plugin_map/C_B4"], 
         [[250, 150], [625, 150], [450, -50], [450, 150]]);
     mapList[1] = new MapInfo(1, 
-        [   123, 144,       212, 233, 254,      322, 364,
-            411, 453, 474,  521, 542, 563, 584, 631, 652, 694,
-            741, 783,       851, 872, 893,      961, 982], "Plugin_map/Map1", "Plugin_map/PlayerCursor1", 
+        [	121,	214, 233,	322, 341, 353,	432, 454, 463,
+			532, 541, 563, 574,	641, 652,	751], "Plugin_map/Map1", "Plugin_map/PlayerCursor1", 
         [   "Plugin_map/C_11", "Plugin_map/C_12", "Plugin_map/C_13", 
             "Plugin_map/C_14", "Plugin_map/C_15", "Plugin_map/C_16", 
-            "Plugin_map/C_17", "Plugin_map/C_18", "Plugin_map/C_19"], 
-        [   [250, 25], [400, 25], [550, 25],
-            [250, 175], [400, 175], [550, 175],
-            [250, 325], [400, 325], [550, 325]] );	//temp
+            "Plugin_map/C_17"], 
+        [   [136, 274], [183, 150], [350, 150],
+            [477, 47], [477, 150], [602, 150],
+            [477, 274]] );	//temp
     mapList[2] = new MapInfo(2, 
         [134, 233, 311, 322], "Plugin_map/Map2", "Plugin_map/PlayerCursor2", 
         ["Plugin_map/C_21", "Plugin_map/C_22", "Plugin_map/C_23"], 
