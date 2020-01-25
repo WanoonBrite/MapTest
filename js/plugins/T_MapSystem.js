@@ -45,9 +45,9 @@ var mapList = [];
         ["Plugin_map/C_21", "Plugin_map/C_22", "Plugin_map/C_23", "Plugin_map/C_24", "Plugin_map/C_25", "Plugin_map/C_26"], 
         [[548, 384], [412, 379], [529, 171], [410, 171], [237, 169], [440, 10]] );
     mapList[3] = new MapInfo(3, 
-        [123, 134, 212, 244, 311, 343, 421, 432], "Plugin_map/Map3", "Plugin_map/PlayerCursor3", 
-        ["Plugin_map/C_31", "Plugin_map/C_32", "Plugin_map/C_33", "Plugin_map/C_34"], 
-        [[250, 25], [450, 25], [250, 225], [450, 225]] );
+        [121, 214], "Plugin_map/Map3", "Plugin_map/PlayerCursor3", 
+        ["Plugin_map/C_31", "Plugin_map/C_32"], 
+        [[388, 268], [388, 11]] );
     mapList[4] = new MapInfo(4,
         [110], "Plugin_map/Map4", "Plugin_map/PlayerCursor4", 
         ["Plugin_map/C_41"],
