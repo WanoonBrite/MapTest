@@ -37,13 +37,13 @@ var mapList = [];
         [   "Plugin_map/C_11", "Plugin_map/C_12", "Plugin_map/C_13", 
             "Plugin_map/C_14", "Plugin_map/C_15", "Plugin_map/C_16", 
             "Plugin_map/C_17"], 
-        [   [136, 309], [183, 185], [350, 185],
-            [477, 82], [477, 185], [602, 185],
-            [477, 309]] );
+        [   [138, 309], [186, 185], [350, 185],
+            [480, 82], [480, 185], [607, 185],
+            [480, 309]] );
     mapList[2] = new MapInfo(2, 
         [122, 131,	213, 241, 	314, 342, 361, 	424, 433, 452, 461,	543, 561,	633, 644, 652], "Plugin_map/Map2", "Plugin_map/PlayerCursor2", 
         ["Plugin_map/C_21", "Plugin_map/C_22", "Plugin_map/C_23", "Plugin_map/C_24", "Plugin_map/C_25", "Plugin_map/C_26"], 
-        [[548, 419], [412, 414], [529, 206], [410, 206], [237, 204], [440, 45]] );
+        [[553, 419], [414, 414], [534, 206], [414, 206], [240, 204], [445, 45]] );
     mapList[3] = new MapInfo(3, 
         [121, 214], "Plugin_map/Map3", "Plugin_map/PlayerCursor3", 
         ["Plugin_map/C_31", "Plugin_map/C_32"], 
