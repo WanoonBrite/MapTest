@@ -49,9 +49,9 @@ var mapList = [];
         ["Plugin_map/C_31", "Plugin_map/C_32"], 
         [[385, 310], [385, 50]] );
     mapList[4] = new MapInfo(4,
-        [110], "Plugin_map/Map4", "Plugin_map/PlayerCursor4", 
-        ["Plugin_map/C_41"],
-        [[308, 50]]);
+        [123, 131, 212, 231, 314, 323, 341, 423, 434], "Plugin_map/Map4", "Plugin_map/PlayerCursor4", 
+        ["Plugin_map/C_41", "Plugin_map/C_42", "Plugin_map/C_43", "Plugin_map/C_44"],
+        [[233, 251], [584, 190], [197, 122], [161, 56]]);
 
 //inherited by scenes
 var BMPlayerPlace_ID;		//player place in BM, == SMID
